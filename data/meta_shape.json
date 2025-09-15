@@ -1,0 +1,1442 @@
+[
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/val/images/shape5_convex_area1_init.png",
+    "mask": "data/val/masks/shape5_convex_area1_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/val/images/shape5_convex_area1_out.png",
+    "mask": "data/val/masks/shape5_convex_area1_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/val/images/shape4_convex_area2_init.png",
+    "mask": "data/val/masks/shape4_convex_area2_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/val/images/shape4_convex_area2_out.png",
+    "mask": "data/val/masks/shape4_convex_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape8_concave_area2_init.png",
+    "mask": "data/train/masks/shape8_concave_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape8_concave_area2_out.png",
+    "mask": "data/train/masks/shape8_concave_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape8_concave_nofill_area2_init.png",
+    "mask": "data/train/masks/shape8_concave_nofill_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape8_concave_nofill_area2_out.png",
+    "mask": "data/train/masks/shape8_concave_nofill_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape8_convex_area2_init.png",
+    "mask": "data/train/masks/shape8_convex_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape8_convex_area2_out.png",
+    "mask": "data/train/masks/shape8_convex_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape1_convex_area2_init.png",
+    "mask": "data/train/masks/shape1_convex_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape1_convex_area2_out.png",
+    "mask": "data/train/masks/shape1_convex_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape3_convex_area1_init.png",
+    "mask": "data/train/masks/shape3_convex_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape3_convex_area1_out.png",
+    "mask": "data/train/masks/shape3_convex_area1_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/val/images/shape5_concave_nofill_area1_init.png",
+    "mask": "data/val/masks/shape5_concave_nofill_area1_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/val/images/shape5_concave_nofill_area1_out.png",
+    "mask": "data/val/masks/shape5_concave_nofill_area1_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/val/images/shape4_concave_area1_init.png",
+    "mask": "data/val/masks/shape4_concave_area1_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/val/images/shape4_concave_area1_out.png",
+    "mask": "data/val/masks/shape4_concave_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape3_concave_nofill_area2_init.png",
+    "mask": "data/train/masks/shape3_concave_nofill_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape3_concave_nofill_area2_out.png",
+    "mask": "data/train/masks/shape3_concave_nofill_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape6_concave_nofill_area1_init.png",
+    "mask": "data/train/masks/shape6_concave_nofill_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape6_concave_nofill_area1_out.png",
+    "mask": "data/train/masks/shape6_concave_nofill_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape8_concave_nofill_area1_init.png",
+    "mask": "data/train/masks/shape8_concave_nofill_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape8_concave_nofill_area1_out.png",
+    "mask": "data/train/masks/shape8_concave_nofill_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape7_concave_nofill_area2_init.png",
+    "mask": "data/train/masks/shape7_concave_nofill_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape7_concave_nofill_area2_out.png",
+    "mask": "data/train/masks/shape7_concave_nofill_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape7_concave_area1_init.png",
+    "mask": "data/train/masks/shape7_concave_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape7_concave_area1_out.png",
+    "mask": "data/train/masks/shape7_concave_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape2_concave_nofill_area1_init.png",
+    "mask": "data/train/masks/shape2_concave_nofill_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape2_concave_nofill_area1_out.png",
+    "mask": "data/train/masks/shape2_concave_nofill_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape2_convex_area2_init.png",
+    "mask": "data/train/masks/shape2_convex_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape2_convex_area2_out.png",
+    "mask": "data/train/masks/shape2_convex_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape3_concave_area1_init.png",
+    "mask": "data/train/masks/shape3_concave_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape3_concave_area1_out.png",
+    "mask": "data/train/masks/shape3_concave_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape1_convex_area1_init.png",
+    "mask": "data/train/masks/shape1_convex_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape1_convex_area1_out.png",
+    "mask": "data/train/masks/shape1_convex_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape2_concave_area2_init.png",
+    "mask": "data/train/masks/shape2_concave_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape2_concave_area2_out.png",
+    "mask": "data/train/masks/shape2_concave_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape6_concave_area1_init.png",
+    "mask": "data/train/masks/shape6_concave_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape6_concave_area1_out.png",
+    "mask": "data/train/masks/shape6_concave_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape6_concave_nofill_area2_init.png",
+    "mask": "data/train/masks/shape6_concave_nofill_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape6_concave_nofill_area2_out.png",
+    "mask": "data/train/masks/shape6_concave_nofill_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape7_convex_area1_init.png",
+    "mask": "data/train/masks/shape7_convex_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape7_convex_area1_out.png",
+    "mask": "data/train/masks/shape7_convex_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape3_concave_nofill_area1_init.png",
+    "mask": "data/train/masks/shape3_concave_nofill_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape3_concave_nofill_area1_out.png",
+    "mask": "data/train/masks/shape3_concave_nofill_area1_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/val/images/shape4_concave_area2_init.png",
+    "mask": "data/val/masks/shape4_concave_area2_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/val/images/shape4_concave_area2_out.png",
+    "mask": "data/val/masks/shape4_concave_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape8_concave_area1_init.png",
+    "mask": "data/train/masks/shape8_concave_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape8_concave_area1_out.png",
+    "mask": "data/train/masks/shape8_concave_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape2_concave_area1_init.png",
+    "mask": "data/train/masks/shape2_concave_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape2_concave_area1_out.png",
+    "mask": "data/train/masks/shape2_concave_area1_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/val/images/shape4_concave_nofill_area1_init.png",
+    "mask": "data/val/masks/shape4_concave_nofill_area1_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/val/images/shape4_concave_nofill_area1_out.png",
+    "mask": "data/val/masks/shape4_concave_nofill_area1_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/val/images/shape5_concave_area1_init.png",
+    "mask": "data/val/masks/shape5_concave_area1_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/val/images/shape5_concave_area1_out.png",
+    "mask": "data/val/masks/shape5_concave_area1_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/val/images/shape5_convex_area2_init.png",
+    "mask": "data/val/masks/shape5_convex_area2_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/val/images/shape5_convex_area2_out.png",
+    "mask": "data/val/masks/shape5_convex_area2_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/val/images/shape4_convex_area1_init.png",
+    "mask": "data/val/masks/shape4_convex_area1_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/val/images/shape4_convex_area1_out.png",
+    "mask": "data/val/masks/shape4_convex_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape1_concave_nofill_area2_init.png",
+    "mask": "data/train/masks/shape1_concave_nofill_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape1_concave_nofill_area2_out.png",
+    "mask": "data/train/masks/shape1_concave_nofill_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape6_convex_area2_init.png",
+    "mask": "data/train/masks/shape6_convex_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape6_convex_area2_out.png",
+    "mask": "data/train/masks/shape6_convex_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape6_concave_area2_init.png",
+    "mask": "data/train/masks/shape6_concave_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape6_concave_area2_out.png",
+    "mask": "data/train/masks/shape6_concave_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape1_concave_area1_init.png",
+    "mask": "data/train/masks/shape1_concave_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "concave",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape1_concave_area1_out.png",
+    "mask": "data/train/masks/shape1_concave_area1_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/val/images/shape5_concave_nofill_area2_init.png",
+    "mask": "data/val/masks/shape5_concave_nofill_area2_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/val/images/shape5_concave_nofill_area2_out.png",
+    "mask": "data/val/masks/shape5_concave_nofill_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape2_concave_nofill_area2_init.png",
+    "mask": "data/train/masks/shape2_concave_nofill_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape2_concave_nofill_area2_out.png",
+    "mask": "data/train/masks/shape2_concave_nofill_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape1_concave_area2_init.png",
+    "mask": "data/train/masks/shape1_concave_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape1_concave_area2_out.png",
+    "mask": "data/train/masks/shape1_concave_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape2_convex_area1_init.png",
+    "mask": "data/train/masks/shape2_convex_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape2_convex_area1_out.png",
+    "mask": "data/train/masks/shape2_convex_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape3_concave_area2_init.png",
+    "mask": "data/train/masks/shape3_concave_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape3_concave_area2_out.png",
+    "mask": "data/train/masks/shape3_concave_area2_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/val/images/shape4_concave_nofill_area2_init.png",
+    "mask": "data/val/masks/shape4_concave_nofill_area2_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "concave_nofill",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/val/images/shape4_concave_nofill_area2_out.png",
+    "mask": "data/val/masks/shape4_concave_nofill_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape1_concave_nofill_area1_init.png",
+    "mask": "data/train/masks/shape1_concave_nofill_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape1_concave_nofill_area1_out.png",
+    "mask": "data/train/masks/shape1_concave_nofill_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape3_convex_area2_init.png",
+    "mask": "data/train/masks/shape3_convex_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape3_convex_area2_out.png",
+    "mask": "data/train/masks/shape3_convex_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape7_concave_nofill_area1_init.png",
+    "mask": "data/train/masks/shape7_concave_nofill_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "concave_nofill",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape7_concave_nofill_area1_out.png",
+    "mask": "data/train/masks/shape7_concave_nofill_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape7_concave_area2_init.png",
+    "mask": "data/train/masks/shape7_concave_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape7_concave_area2_out.png",
+    "mask": "data/train/masks/shape7_concave_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape8_convex_area1_init.png",
+    "mask": "data/train/masks/shape8_convex_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape8_convex_area1_out.png",
+    "mask": "data/train/masks/shape8_convex_area1_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "init",
+    "image": "data/train/images/shape6_convex_area1_init.png",
+    "mask": "data/train/masks/shape6_convex_area1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "convex",
+    "area": 1,
+    "size": "small",
+    "phase": "out",
+    "image": "data/train/images/shape6_convex_area1_out.png",
+    "mask": "data/train/masks/shape6_convex_area1_out.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/val/images/shape5_concave_area2_init.png",
+    "mask": "data/val/masks/shape5_concave_area2_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "concave",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/val/images/shape5_concave_area2_out.png",
+    "mask": "data/val/masks/shape5_concave_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "init",
+    "image": "data/train/images/shape7_convex_area2_init.png",
+    "mask": "data/train/masks/shape7_convex_area2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "convex",
+    "area": 2,
+    "size": "large",
+    "phase": "out",
+    "image": "data/train/images/shape7_convex_area2_out.png",
+    "mask": "data/train/masks/shape7_convex_area2_out.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape3_no_change2_init.png",
+    "mask": "data/train/masks/shape3_no_change2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape3_no_change3_init.png",
+    "mask": "data/train/masks/shape3_no_change3_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape3_no_change5_init.png",
+    "mask": "data/train/masks/shape3_no_change5_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape3_no_change4_init.png",
+    "mask": "data/train/masks/shape3_no_change4_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape3_no_change1_init.png",
+    "mask": "data/train/masks/shape3_no_change1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 3,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape3_no_change6_init.png",
+    "mask": "data/train/masks/shape3_no_change6_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape2_no_change3_init.png",
+    "mask": "data/train/masks/shape2_no_change3_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape2_no_change2_init.png",
+    "mask": "data/train/masks/shape2_no_change2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape2_no_change4_init.png",
+    "mask": "data/train/masks/shape2_no_change4_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape2_no_change5_init.png",
+    "mask": "data/train/masks/shape2_no_change5_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape2_no_change1_init.png",
+    "mask": "data/train/masks/shape2_no_change1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 2,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape2_no_change6_init.png",
+    "mask": "data/train/masks/shape2_no_change6_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape1_no_change3_init.png",
+    "mask": "data/train/masks/shape1_no_change3_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape1_no_change2_init.png",
+    "mask": "data/train/masks/shape1_no_change2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape1_no_change4_init.png",
+    "mask": "data/train/masks/shape1_no_change4_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape1_no_change5_init.png",
+    "mask": "data/train/masks/shape1_no_change5_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape1_no_change1_init.png",
+    "mask": "data/train/masks/shape1_no_change1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 1,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape1_no_change6_init.png",
+    "mask": "data/train/masks/shape1_no_change6_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape8_no_change4_init.png",
+    "mask": "data/train/masks/shape8_no_change4_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape8_no_change5_init.png",
+    "mask": "data/train/masks/shape8_no_change5_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape8_no_change3_init.png",
+    "mask": "data/train/masks/shape8_no_change3_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape8_no_change2_init.png",
+    "mask": "data/train/masks/shape8_no_change2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape8_no_change6_init.png",
+    "mask": "data/train/masks/shape8_no_change6_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 8,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape8_no_change1_init.png",
+    "mask": "data/train/masks/shape8_no_change1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape6_no_change3_init.png",
+    "mask": "data/train/masks/shape6_no_change3_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape6_no_change2_init.png",
+    "mask": "data/train/masks/shape6_no_change2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape6_no_change4_init.png",
+    "mask": "data/train/masks/shape6_no_change4_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape6_no_change5_init.png",
+    "mask": "data/train/masks/shape6_no_change5_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape6_no_change1_init.png",
+    "mask": "data/train/masks/shape6_no_change1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 6,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape6_no_change6_init.png",
+    "mask": "data/train/masks/shape6_no_change6_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape7_no_change2_init.png",
+    "mask": "data/train/masks/shape7_no_change2_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape7_no_change3_init.png",
+    "mask": "data/train/masks/shape7_no_change3_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape7_no_change5_init.png",
+    "mask": "data/train/masks/shape7_no_change5_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape7_no_change4_init.png",
+    "mask": "data/train/masks/shape7_no_change4_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape7_no_change1_init.png",
+    "mask": "data/train/masks/shape7_no_change1_init.png"
+  },
+  {
+    "split": "train",
+    "sid": 7,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/train/images/shape7_no_change6_init.png",
+    "mask": "data/train/masks/shape7_no_change6_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape4_no_change2_init.png",
+    "mask": "data/val/masks/shape4_no_change2_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape4_no_change3_init.png",
+    "mask": "data/val/masks/shape4_no_change3_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape4_no_change5_init.png",
+    "mask": "data/val/masks/shape4_no_change5_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape4_no_change4_init.png",
+    "mask": "data/val/masks/shape4_no_change4_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape4_no_change1_init.png",
+    "mask": "data/val/masks/shape4_no_change1_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 4,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape4_no_change6_init.png",
+    "mask": "data/val/masks/shape4_no_change6_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape5_no_change3_init.png",
+    "mask": "data/val/masks/shape5_no_change3_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape5_no_change2_init.png",
+    "mask": "data/val/masks/shape5_no_change2_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape5_no_change4_init.png",
+    "mask": "data/val/masks/shape5_no_change4_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape5_no_change5_init.png",
+    "mask": "data/val/masks/shape5_no_change5_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape5_no_change1_init.png",
+    "mask": "data/val/masks/shape5_no_change1_init.png"
+  },
+  {
+    "split": "val",
+    "sid": 5,
+    "ctype": "no_change",
+    "area": 0,
+    "size": "na",
+    "phase": "init",
+    "image": "data/val/images/shape5_no_change6_init.png",
+    "mask": "data/val/masks/shape5_no_change6_init.png"
+  }
+]

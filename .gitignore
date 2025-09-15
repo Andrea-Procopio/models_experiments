@@ -62,3 +62,5 @@ segformer_polygons/data/val/
 # torch cache in venvs
 **/site-packages/torch/lib/*.dylib
 **/site-packages/torch/**
+# macOS
+.DS_Store
