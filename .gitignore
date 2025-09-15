@@ -1,0 +1,16 @@
+# virtual envs and caches
+venv*/ 
+**/__pycache__/
+*.pyc
+
+# data and generated artifacts
+segformer_polygons/data/
+segformer_polygons/overlays*/
+segformer_polygons/overlays/
+segformer_polygons/runs/**/checkpoint-epoch*.pt
+segformer_polygons/runs/**/checkpoint.pt
+
+# large videos and images outside code
+segformer/exp2TTC_b5-finetuned-ade-640-640/processed_videos/
+Exp3b_Images/
+*.mp4
