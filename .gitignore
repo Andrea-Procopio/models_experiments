@@ -14,3 +14,53 @@ segformer_polygons/runs/**/checkpoint.pt
 segformer/exp2TTC_b5-finetuned-ade-640-640/processed_videos/
 Exp3b_Images/
 *.mp4
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+.venv/
+venv*/
+*/.venv/
+*/venv*/
+
+# OS & IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Data/Artifacts
+*.log
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.bin
+*.npy
+*.npz
+*.tfrecord
+*.h5
+*.pb
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Build
+dist/
+build/
+.eggs/
+*.egg-info/
+
+# Images/overlays (keep generated outputs out of git if large)
+segformer_polygons/overlays_*/
+segformer_polygons/runs/
+
+# Local datasets
+segformer_polygons/data/train/
+segformer_polygons/data/val/
+segformer_polygons/Exp3b_Images/
+
+# torch cache in venvs
+**/site-packages/torch/lib/*.dylib
+**/site-packages/torch/**
