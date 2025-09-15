@@ -12,7 +12,6 @@ segformer_polygons/runs/**/checkpoint.pt
 
 # large videos and images outside code
 segformer/exp2TTC_b5-finetuned-ade-640-640/processed_videos/
-Exp3b_Images/
 *.mp4
 # Python
 __pycache__/
@@ -59,7 +58,6 @@ segformer_polygons/runs/
 # Local datasets
 segformer_polygons/data/train/
 segformer_polygons/data/val/
-segformer_polygons/Exp3b_Images/
 
 # torch cache in venvs
 **/site-packages/torch/lib/*.dylib
